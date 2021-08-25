@@ -1,0 +1,21 @@
+body{
+	background-image: url(https://www.nustm.org/wp-content/uploads/2017/06/background-image-html.jpg);
+	text-align: center;
+	padding-top: 50px;
+
+}
+p {
+	text-align: center;
+	color: whitesmoke;
+	font-size: 55px;
+}
+h1 {
+	color: whitesmoke;
+	font-size: 45px;
+}
+
+a {
+	font-size: 40px;
+	color: #098cd9;
+}
+
